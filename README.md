@@ -1,2 +1,3 @@
 # Sistema-votacion-java
-act 1
+Actividad 1
+Programa en Java para calcular el porcentaje de votos en una urna.
