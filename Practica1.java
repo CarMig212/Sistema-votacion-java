@@ -3,7 +3,7 @@
  * Incluye los Ejercicios del 1 al 6.
  */
 
-public class PracticaExcepciones {
+public class Practica1 {
 
     // Ejercicio 3: Crear una nueva clase de excepción
     static class ErrorDeProceso extends Exception {
@@ -126,4 +126,5 @@ public class PracticaExcepciones {
             e.printStackTrace(System.out);
         }
     }
+
 }
